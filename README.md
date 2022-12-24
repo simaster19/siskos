@@ -1,5 +1,9 @@
 #Sistem Pemetaan tempat Kost Di kabupaten Kendal berbasis Web
 
+Created By : Miftakhul Kirom
+YT : Si Master19 / Republik Channel
+IG : simaster19
+
 Aplikasi ini dibuat untuk memetakan Lokasi tempat Kos di wilayah kabupaten Kendal, aplikasi masih banyak kekurangan, terutama di segi keamanan dan prosses masih belum di optimasi.
 
 Dibuat Dengan :
@@ -37,7 +41,3 @@ ADMIN:
 - Transaksi ini belum menggunakan API, ini dilakukan secara manual.
 
 Silahkan anda bisa mengembangkannya lagi
-
-Created By : Miftakhul Kirom
-YT : Si Master19 / Republik Channel
-IG : simaster19
