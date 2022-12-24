@@ -1,5 +1,5 @@
 <?php
-error_reporting(0);
+//error_reporting(0);
 date_default_timezone_set("Asia/Jakarta");
 session_start();
 
@@ -7,7 +7,7 @@ include "function.php";
 
 
 
-  
+
 
 if (!$_SESSION['nama'] && !$_SESSION['password']) {
   # code...

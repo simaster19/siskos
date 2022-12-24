@@ -68,11 +68,11 @@
           <div class="row">
             <div class="col-sm-6">
               <label for="lattitude">Lattitude</label>
-              <input type="text" class="form-control" id="lattitude" placeholder="Koordinat Lattitude" name="lattitude" value="" >
+              <input type="text" class="form-control" id="lattitude" placeholder="Koordinat Lattitude" name="lattitude" value="">
             </div>
             <div class="col-sm-6">
               <label for="longtitude">Longtitude</label>
-              <input type="text" class="form-control" id="longtitude" placeholder="Koordinat Longtitude" name="longtitude" value="" >
+              <input type="text" class="form-control" id="longtitude" placeholder="Koordinat Longtitude" name="longtitude" value="">
             </div>
           </div>
         </div>
